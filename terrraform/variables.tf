@@ -1,6 +1,5 @@
 # variables.tf
-#AKIAWCETL7QRFEUMSBVU
-#UTvAtpQtid8K5ABmt/n4LD/lUNX2U0EHmjugCaGP
+
 variable "aws_region" {
   description = "The AWS region things are created in"
   default     = "us-west-2"
